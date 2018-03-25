@@ -17,7 +17,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 #setting directory
-os.chdir("E:/backup/ACADS/Kaggle")
+#os.chdir("E:/backup/ACADS/Kaggle")
 
 # reading the csvfile
 train = pd.read_csv("training.csv")  
